@@ -10,4 +10,4 @@ Pesquisar aplicações de IA no apoio ao diagnóstico
 Explorar como prompts podem auxiliar estudos médicos
 
 
-#Curadoria de Fontes
+### Curadoria de Fontes
